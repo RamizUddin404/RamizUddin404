@@ -1,5 +1,5 @@
 # <p align="center">👋 Hello World, I'm [RAMIZ UDDIN](https://www.facebook.com/Ramiz.Uddin404)</p>
-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
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EF00&center=true&vCenter=true&width=435&lines=Cyber+Security+Researcher;Full+Stack+Developer;Termux+Expert;Open+Source+Contributor" alt="Typing SVG" />
 </p>
